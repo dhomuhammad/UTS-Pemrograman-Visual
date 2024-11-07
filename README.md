@@ -3,10 +3,13 @@ NAMA : RIDHA MUHAMMAD RIFQI
 KELAS : TI.22.A.5
 NIM : 312210491
 
-```
+
 1. Input Data
 
 ![Screenshot 2024-11-07 112306](https://github.com/user-attachments/assets/0e0d1099-645a-441b-8af0-541c6927a9af)
+
+
+![Screenshot 2024-11-07 112345](https://github.com/user-attachments/assets/006f47bb-6425-44b2-b4a8-e151fbf01d26)
 
 
 2. Update Data
@@ -28,4 +31,4 @@ NIM : 312210491
 ![Screenshot 2024-11-07 190353](https://github.com/user-attachments/assets/088337e6-c64a-4a7f-8ddf-6d5bb7ec0de1)
 
 
-```
+
