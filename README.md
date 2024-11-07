@@ -1,6 +1,8 @@
 # UTS-Pemrograman-Visual
 NAMA : RIDHA MUHAMMAD RIFQI
+
 KELAS : TI.22.A.5
+
 NIM : 312210491
 
 
