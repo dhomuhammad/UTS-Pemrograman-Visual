@@ -1,9 +1,11 @@
 # UTS-Pemrograman-Visual
-NAMA : RIDHA MUHAMMAD RIFQI
+```
+NAMA   :  RIDHA MUHAMMAD RIFQI
 
-KELAS : TI.22.A.5
+NIM    :  312210491
 
-NIM : 312210491
+KELAS  :  TI.22.A.5
+```
 
 
 1. Input Data
