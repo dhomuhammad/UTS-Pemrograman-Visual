@@ -6,10 +6,8 @@ NIM : 312210491
 ```
 1. Input Data
 
-![Screenshot 2024-11-07 112306](https://github.com/user-attachments/assets/9b8ed9ce-bfb4-4289-88e9-6a07d8f5e3c9)
+![Screenshot 2024-11-07 112306](https://github.com/user-attachments/assets/0e0d1099-645a-441b-8af0-541c6927a9af)
 
-
-![Screenshot 2024-11-07 112345](https://github.com/user-attachments/assets/72e8c5c9-eca8-4c3f-90e9-14a913846c22)
 
 2. Update Data
 
